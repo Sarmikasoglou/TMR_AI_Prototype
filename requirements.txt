@@ -1,0 +1,4 @@
+streamlit
+pandas
+pulp
+dataclasses; python_version < "3.7"
